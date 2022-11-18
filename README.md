@@ -30,6 +30,16 @@ For the purpose of our analysis, we will constraint our CMU Movies dataset to a 
 
 **Datasets:**
 
+IMDB movies : can be found in https://www.imdb.com/interfaces/ website. It contains 
+various data from titles to crews and directors who worked in a movie.
+For now, we used this dataset to retreive average ratings and number of votes.
+This would help us in our approach for weighted average rating.
+
+Budget: We performed scraping for budget (alongside box office revenue) of movies over two sources, wikidata
+and tmdb. For wikidata we scraped our data over movies from the United States
+and selected only non zero results. The same approach was conducted on tmdb queries
+over the movies at hand in the initial cmu dataset. This data will help us
+to get a better grasp of the financial success based on profit.
 
 
 
