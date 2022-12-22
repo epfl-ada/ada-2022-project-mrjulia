@@ -1,4 +1,4 @@
-﻿**Statistical guideline for a financially successful movie taking inflation into consideration **
+﻿**Statistical guideline for a financially successful movie taking inflation into consideration**
 
 
 **Abstract :**
