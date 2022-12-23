@@ -82,7 +82,8 @@ In order to isolate the effect of the movie genre on its revenue, we try to get 
 
 ### Individual contribuitons
 
-- Yahya : Data Visualization, Data Preprocessing (Actors and Movies),feature statistical analysis, READme.
-- Youssef :Data Visualization, Data preprocessing, website design,feature statistical analysis,Data story. 
+- Yahya : Data Visualization, Data Preprocessing , Feature statistical analysis, READme.
+- Youssef : Data Visualization, Data preprocessing, Website design, Feature statistical analysis, Data story.
+- Yassine : Data Visualization, Data preprocessing, Web Scraping, Wikidata Queries, Genres analysis, Actors awards analysis, Regression analysis.
 - Reda : Sentiment analysis, plot summaries analysis,feature statistical analysis.
 
