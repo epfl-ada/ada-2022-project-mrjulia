@@ -82,10 +82,10 @@ In order to isolate the effect of the movie genre on its revenue, we try to get 
 ### The link to the data story : (<https://youssefelouazzani.github.io/ada-template-website/starting_website?usp=share_link>)
 
 ### Order to read the notebooks : 
--Web_scraping
--Preprocessing_exploration
--Data-analysis
--Plot_Summary
+-Web_scraping   
+-Preprocessing_exploration   
+-Data-analysis   
+-Plot_Summary   
 
 ### Individual contributions
 
