@@ -79,8 +79,15 @@ Isolate the effect of the movie genre:
 
 In order to isolate the effect of the movie genre on its revenue, we try to get rid of confounders. We had the idea to encode each movie using one hot encoding of its genres and then perform in depth correlation analysis to see if the presence of one genre might be important for the movie in order to achieve financial success. 
 
+### The link to the data story : (<https://youssefelouazzani.github.io/ada-template-website/starting_website?usp=share_link>)
 
-### Individual contribuitons
+### Order to read the notebooks : 
+-Web_scraping
+-Preprocessing_exploration
+-Data-analysis
+-Plot_Summary
+
+### Individual contributions
 
 - Yahya : Data Visualization, Data Preprocessing , Feature statistical analysis, READme.
 - Youssef : Data Visualization, Data preprocessing, Website design, Feature statistical analysis, Data story.
