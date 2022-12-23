@@ -1,15 +1,13 @@
-﻿**Statistical guideline for a financially successful movie taking inflation into consideration**
+**Statistical guideline for a financially successful movie taking inflation into consideration**
 
 
 **Abstract :**
 
-Everyone loves movies! Whenever you are happy or sad, movies are one of the best companies for us. But when you are watching the movie, do you ever think of the astronomical profits that some movies make ? And maybe of the factors that make them financially successful?
+Movies are a universal source of entertainment that bring us joy no matter how we're feeling. But have you ever thought about the huge profits some movies make? And what factors contribute to their financial success?
 
-Indeed, The movie industry plays an important role in the entertainment market size, as of 2019 the global box office was worth $42.2 billion.
+The movie industry plays a significant role in the entertainment market, with the global box office worth $42.2 billion in 2019. But what makes a movie financially profitable? Is it the length of the film, the presence and fame of certain actors, the genre, or the budget?
 
-Whether it is the duration of the Movie, the presence of certain actors and their notoriety, the genre it belongs to, or maybe the budget dedicated to the movie , We aim to use a data driven approach to reveal what makes a movie financially profitable.
-
-For the purpose of our analysis, we will constraint our CMU Movies dataset to a subset of movies that were released in the US between 1980 to 2010.  We will be measuring the success using a Profit feature defined as the difference between the revenue and the budget, and we will enrich our CMU subset with scraped data points from Wikidata and TMDb to get the revenue and budget and with the Imdb dataset to get the ratings. 
+To find out, we're using a data-driven approach to analyze a subset of movies released in the US from 1980 to 2010. We'll measure success using the profit feature, which is calculated as the difference between the revenue and budget. We'll also gather additional data points from Wikidata, TMDb, and Imdb to get the revenue, budget, and ratings. Let's see what we can discover about the factors that drive movie profitability!
 
 
 **Research Questions:**
