@@ -7,9 +7,7 @@ Everyone loves movies! Whenever you are happy or sad, movies are one of the best
 
 Indeed, The movie industry plays an important role in the entertainment market size, as of 2019 the global box office was worth $42.2 billion.
 
-Whether it is the duration of the Movie, the presence of certain actors and their notoriety, the genre it belongs to, or maybe the budget dedicated to the movie ? We aim to use a data
-
-driven approach to reveal what makes a movie financially profitable.
+Whether it is the duration of the Movie, the presence of certain actors and their notoriety, the genre it belongs to, or maybe the budget dedicated to the movie , We aim to use a data driven approach to reveal what makes a movie financially profitable.
 
 For the purpose of our analysis, we will constraint our CMU Movies dataset to a subset of movies that were released in the US between 1980 to 2010.  We will be measuring the success using a Profit feature defined as the difference between the revenue and the budget, and we will enrich our CMU subset with scraped data points from Wikidata and TMDb to get the revenue and budget and with the Imdb dataset to get the ratings. 
 
@@ -85,10 +83,6 @@ We analyze the keyword factor by using the word cloud visualization library (It 
 We started by using the positive-words.txt and negative-word.txt ( we want to enrich these word dictionaries furthermore ) that we used in previous homeworks in our provided example in the summary plot notebook. 
 
 We then use the following formula to determine the degree of positivity Degree = (number(positive) - number(negative))/number(words) 
-
-Combination of factors analysis 
-
-In addition to the correlation between factors that we aim to do. We want to Investigate if  some combinations of factors can be a great indicator of financially successful  good movies. and perform We want to fit our data with both linear regression and  tree-based regression and compare between both these models. After discussion, we decided to learn more about the XGBoost model and how we can perform it on our dataset to understand its correlation more. 
 
 Isolate the effect of the movie genre:
 
