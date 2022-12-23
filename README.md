@@ -79,36 +79,10 @@ Isolate the effect of the movie genre:
 
 In order to isolate the effect of the movie genre on its revenue, we try to get rid of confounders. We had the idea to encode each movie using one hot encoding of its genres and then perform in depth correlation analysis to see if the presence of one genre might be important for the movie in order to achieve financial success. 
 
-**Proposed timeline:**
 
-*21-11-2022 to 27-12-2022:*
+### Individual contribuitons
 
--project break due to the homework 
-
--assigning each one of us one of the following tasks 
-
-*28-11-2022 to 4-12-2022:* 
-
-In all these tasks, we assume that each teammate can add more features and scrape more points of needed from the datasets already provided
-
--apply all the example plot analysis provided on all the blockbuster movies we choose (teammate 1)
-
--performing clustering analysis : (teammate 2)
-
--analyze the effect of genres on the profit :(teammate 3)
-
--actor award analysis ( teammate 4)
-
-*1-6 december :*
-
--perform the in-depth correlation analysis with interpretation of the result
-
-5 december :
-
--start of the Milestone 3 
-
-
-
-
-
+- Yahya : Data Visualization, Data Preprocessing (Actors and Movies),feature statistical analysis, READme.
+- Youssef :Data Visualization, Data preprocessing, website design,feature statistical analysis,Data story. 
+- Reda : Sentiment analysis, plot summaries analysis,feature statistical analysis.
 
